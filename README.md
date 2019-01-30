@@ -6,7 +6,7 @@ Modify resume.tex, then compile with your favorite LaTeX command. `res.cls` shou
 
 ## License
 
-Copyright (c) 1988 by Michael DeCorte
+Copyright (c) 1988 by Michael DeCorte  
 Permission to copy all or part of this work is granted, provided
 that the copies are not made or distributed for resale, and that
 the copyright notice and this notice are retained.
@@ -18,13 +18,13 @@ FOR ANY PARTICULAR PURPOSE.
 
 If you make any improvements, I'd like to hear about them.
 
-Michael DeCorte
-P.O. Box 652
-Potsdam NY 13676
-mrd@sun.soe.clarkson.edu
+Michael DeCorte  
+P.O. Box 652  
+Potsdam NY 13676  
+mrd@sun.soe.clarkson.edu  
 mrd@clutx.bitnet
 
-Changes for LaTeX2e -- Venkat Krishnamurthy (Aug 7, 2001)
+Changes for LaTeX2e -- Venkat Krishnamurthy (Aug 7, 2001)  
 Minor changes -- Galen Gold (2017)
 
 
